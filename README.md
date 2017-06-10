@@ -1,8 +1,8 @@
 # TensorFlow_Fred
 ## 文件夹说明
 ***3rdparty***</br>　　第三方依赖的库或包等</br>
-***bin***</br>　　编译出来的可执行程序或者库等</br>
-***build***</br>　　编译脚本等</br>
+***bin***</br>　　编译出来的可执行程序或者库等，按环境区分，例如Windows/Linux</br>
+***build***</br>　　编译脚本等，按环境区分，例如Windows/Linux</br>
 ***data***</br>　　用于训练或者测试的数据</br>
 ***doc***</br>　　说明文档，例如《深入浅出TensorFlow.txt》</br>
 ***samples***</br>　　一些实用的例子</br>
