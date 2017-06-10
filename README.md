@@ -8,3 +8,7 @@
 ***samples***</br>　　一些实用的例子</br>
 ***src***</br>　　源码</br>
 ***tools***</br>　　开发TensorFlow_Fred所需要的工具包或者对应的资源网址</br>
+
+## 参考资源
+https://github.com/tensorflow/tensorflow</br>
+http://www.tensorfly.cn/</br>
