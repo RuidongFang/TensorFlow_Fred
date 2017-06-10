@@ -1,5 +1,7 @@
-# TensorFlow_Fred
-## 文件夹说明
+<div align="center">
+  <img src="https://github.com/RuidongFang/TensorFlow_Fred/blob/master/TensorFlow_Fred_logo.png"><br><br>
+</div>
+## TensorFlow_Fred说明
 ***3rdparty***</br>　　依赖的第三方库或包等</br>
 ***bin***</br>　　编译出来的可执行程序或者库等，按环境区分，例如Windows/Linux</br>
 ***build***</br>　　编译脚本等，按环境区分，例如Windows/Linux</br>
