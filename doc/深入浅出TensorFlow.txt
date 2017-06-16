@@ -3,5 +3,10 @@
 # WebSite: https://github.com/RuidongFang/TensorFlow_Fred
 ################################################################
 ################################################################
-# 第一章：Windows OS CPU 上搭建tensorflow
+# 第一章：tensorflow平台搭建
 ################################################################
+1、Linux/Windows环境下（CPU、Python 2.7）tensorflow平台搭建
+    将tools下对于的资源包下载好后，采用以下命令安装即可。
+    pip install *.whl
+    python setup.py install
+    特别注意：安装tensorflow依赖安装包的版本问题。
